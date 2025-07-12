@@ -1,7 +1,7 @@
 {
   "name": "freecodecamp-backend-course",
   "version": "1.0.0",
-  "description": "Backend development challenges from freeCodeCamp",
+  "description": "freecodecamp backend development course",
   "author": "Milou",
   "main": "server.js",
   "scripts": {
