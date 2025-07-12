@@ -1,15 +1,17 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author" : "Milou"
+  "name": "freecodecamp-backend-course",
+  "version": "1.0.0",
+  "description": "Backend development challenges from freeCodeCamp",
+  "author": "Milou",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fsrkh/freecodecamp-backend-course.git"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
