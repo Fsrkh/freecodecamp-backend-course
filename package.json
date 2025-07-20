@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "freecodecamp backend development course",
   "author": "Milou",
-  "keywords" : ["freecodecamp", "bakend", "js"],
+  "keywords": ["freecodecamp", "backend", "js"],
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -16,3 +17,4 @@
     "express": "^4.14.0"
   }
 }
+
